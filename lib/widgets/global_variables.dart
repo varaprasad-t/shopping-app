@@ -1,0 +1,102 @@
+final products = [
+  {
+    'id': '0',
+    'title': "M&M's Choco Single 45g",
+    'price': 125,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/m&m.png',
+  },
+  {
+    'id': '1',
+    'title': "Hershey's Milk Chocolate Bar with Almonds 41g",
+    'price': 249,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/hersheyplainchoco.png',
+  },
+  {
+    'id': '2',
+    'title': "Godiva Dark Blood Orange Bar 90g",
+    'price': 524,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/god.png',
+  },
+  {
+    'id': '3',
+    'title': "Hershey's Kisses Milk with Almonds Bag 283g",
+    'price': 956,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/hersheyalkiss.png',
+  },
+  {
+    'id': '4',
+    'title': "Hershey's Nuggets Dark Bar 56g",
+    'price': 249,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/hersheypinknug.png',
+  },
+  {
+    'id': '5',
+    'title': "Hershey's Nuggets Milk Chocolate Bag 289g",
+    'price': 1195,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/hersheychoconug.png',
+  },
+  {
+    'id': '6',
+    'title': "Hershey's Nuggets Milk Bar 56g",
+    'price': 249,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/hersheychoconug1.png',
+  },
+  {
+    'id': '7',
+    'title': "Godiva Milk Chocolate Bar 90g",
+    'price': 524,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/godmilk.png',
+  },
+  {
+    'id': '8',
+    'title': "Godiva Milk Salted Caramel Bar 90g",
+    'price': 524,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/godblue.png',
+  },
+  {
+    'id': '9',
+    'title': "Godiva Roasted Almond Dark Chocolate Sticks 90g",
+    'price': 524,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/godchoco.png',
+  },
+  {
+    'id': '10',
+    'title': "Godiva Signature Honey Almond Milk Chocolate Sticks 90g",
+    'price': 524,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/godal.png',
+  },
+  {
+    'id': '11',
+    'title': "M&M's Crispy Single 36g",
+    'price': 125,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/mmblue.png',
+  },
+  {
+    'id': '12',
+    'title': "M&M's Peanut Single 45g",
+    'price': 125,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/mmyellow.png',
+  },
+];
+
+final cart = [
+  {
+    'title': "M&M's",
+    'price': 44.52,
+    //'sizes': [8, 9, 10, 11],
+    'img': 'assets/images/m&m.png',
+  },
+];
